@@ -11,7 +11,7 @@ I´ve been learning python and other languages for some time now.
 * 🚀  I'm currently working on [Discord bots with python](http://discord.com/developers/applications/885959142777421885/information)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Discord Bots
-* ⚡  Goal: University Mannheim to study Cybersecurity
+
 
 <a href="https://www.twitch.tv/sme1ns" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/sme1ns?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
