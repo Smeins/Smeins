@@ -11,7 +11,7 @@ I´ve been using python and other languages for some time now.
 * ✉️  You can contact me at [Smeins#6967](mailto:Smeins#6967)
 * 🚀  I'm currently working on [bots with python](http://discord.com/developers/applications/885959142777421885/information)
 * 🧠  I'm using Python
-* 🤝  I'm open to collaborating on Discord Bots
+* 🤝  I'm open to collaborating on Bots
 
 
 <a href="https://www.twitch.tv/sme1ns" target="_blank" rel="noreferrer"><img
