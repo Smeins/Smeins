@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Digital Networking and Programming
 -----------------------------
 
-I´ve been learning python and other languages for some time now.
+I´ve been using python and other languages for some time now.
 
 * 🌍  I'm based in Heidelberg, Germany
 * ✉️  You can contact me at [Smeins#6967](mailto:Smeins#6967)
