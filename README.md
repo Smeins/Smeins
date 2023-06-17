@@ -8,7 +8,7 @@ I´ve been learning python and other languages for some time now.
 
 * 🌍  I'm based in Heidelberg, Germany
 * ✉️  You can contact me at [Smeins#6967](mailto:Smeins#6967)
-* 🚀  I'm currently working on [Discord bots with python](http://discord.com/developers/applications/885959142777421885/information)
+* 🚀  I'm currently working on [bots with python](http://discord.com/developers/applications/885959142777421885/information)
 * 🧠  I'm using Python
 * 🤝  I'm open to collaborating on Discord Bots
 
