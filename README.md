@@ -9,9 +9,9 @@ I´ve been using python and other languages for some time now.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [Smeins#6967](mailto:Smeins#6967)
-* 🚀  I'm currently working on [bots with python](http://discord.com/developers/applications/885959142777421885/information)
+* 🚀  I'm currently working on [bots and databases]((https://en.wikipedia.org/wiki/SAP_HANA))
 * 🧠  I'm using Python
-* 🤝  I'm open to collaborating on Bots
+* 🤝  I'm open to collaborating on Bots and Databases
 
 
 <a href="https://www.twitch.tv/sme1ns" target="_blank" rel="noreferrer"><img
