@@ -9,7 +9,7 @@ I´ve been using python and other languages for some time now.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [Smeins#6967](mailto:Smeins#6967)
-* 🚀  I'm currently working on [bots and databases]((https://en.wikipedia.org/wiki/SAP_HANA))
+* 🚀  I'm currently working on [bots,AI and databases]((https://en.wikipedia.org/wiki/SAP_HANA))
 * 🧠  I'm using Python
 * 🤝  I'm open to collaborating on Bots and Databases
 
