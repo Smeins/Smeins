@@ -5,7 +5,7 @@ My name is Neo
 Database automation on SAP HANA DB
 -----------------------------
 
-Atm working with automation of SAP HANA DB systems, cluster switching and high availability.
+Atm working with the automation of SAP HANA DB systems, cluster switching and high availability.
 [SAP HANA DB](https://en.wikipedia.org/wiki/SAP_HANA)
 
 * 🌍  I'm based in Germany
