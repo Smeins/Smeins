@@ -11,7 +11,7 @@ Atm working with automation of SAP HANA DB systems, cluster switching and high a
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [Smeins#6967](mailto:Smeins#6967)
 * 🚀  I'm currently working on the automation of jobs and high availability for SAP HANA DB systems. 
-* 🧠  I'm using Python and sql.
+* 🧠  I'm using python and sql.
 * 🤝  I'm open to collaborating on Database automation and cluster switching.
 
 
