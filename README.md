@@ -2,14 +2,15 @@ Hi!,
 My name is Neo
 ===========================================================================================================================
 
-Digital Networking and Programming
+Database automation on SAP HANA DB
 -----------------------------
 
-I´ve been using python and other languages for some time now.
+Atm working with automation of SAP HANA DB systems, cluster switching and high availability.
+[SAP HANA DB](https://en.wikipedia.org/wiki/SAP_HANA)
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [Smeins#6967](mailto:Smeins#6967)
-* 🚀  I'm currently working on [bots, AI and databases]((https://en.wikipedia.org/wiki/SAP_HANA))
+* 🚀  I'm currently working on [bots, AI and databases](https://en.wikipedia.org/wiki/SAP_HANA)
 * 🧠  I'm using Python
 * 🤝  I'm open to collaborating on Bots and Databases
 
