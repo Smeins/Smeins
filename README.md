@@ -10,7 +10,7 @@ Atm working on the automation of SAP HANA DB systems, cluster switching and high
 * ✉️  You can contact me at [Smeins#6967](mailto:Smeins#6967)
 * 🚀  I'm currently working on the automation of jobs and high availability for SAP HANA DB systems. 
 * 🧠  I'm using python and sql.
-* 🤝  I'm open to collaborating on Database automation and cluster switching.
+* 🤝  I'm open to collaborating on database automation and cluster switching.
 
 
 <a href="https://www.twitch.tv/sme1ns" target="_blank" rel="noreferrer"><img
