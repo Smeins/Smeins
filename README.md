@@ -7,12 +7,12 @@ Atm working on the automation of SAP HANA DB systems, cluster switching and high
 [SAP HANA DB](https://en.wikipedia.org/wiki/SAP_HANA)
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [Smeins#6967](mailto:Smeins#6967)
+* ✉️  You can contact me at [Smeins](mailto:Sme1ns@proton.me)
 * 🚀  I'm currently working on the automation of jobs and high availability for SAP HANA DB systems. 
 * 🧠  I'm using python, sql, yaml and more.
 * 🤝  I'm open to collaborating on database automation and cluster switching.
 
-Most project and commits wont be here, if you have any question, feel free to ask me!
+Most projects and commits wont be here, if you have any question, feel free to ask me!
 
 
 <a href="https://www.twitch.tv/sme1ns" target="_blank" rel="noreferrer"><img
